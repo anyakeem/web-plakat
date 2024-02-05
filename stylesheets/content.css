@@ -1,0 +1,400 @@
+.component-10-icon,
+.frame-child {
+  position: relative;
+  top: -183px;
+  left: 260px;
+  width: 100%;
+  height: 0%;
+}
+.frame-child {
+  top: 888px;
+  left: 0;
+  width: 960px;
+  height: 146px;
+}
+.component-9-icon {
+  position: absolute;
+  top: -67px;
+  left: -81px;
+  width: 492px;
+  height: 879px;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  offset-path: path('M290.956 424.959C225.334 420.381 152.814 447.505 124.757 461.639C-8.49371 469.524 47.3676 359.68 7.78002 218.687C-31.8076 77.694 108.965 0.555417 197.518 1.13579C286.07 1.7162 255.891 146.721 353.873 215.75C451.856 284.779 372.983 430.682 290.956 424.959Z');
+  animation: move 8s linear infinite
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+.div,
+.frame-item {
+  position: absolute;
+  top: 69px;
+  left: 26px;
+  width: 167px;
+  height: 57px;
+}
+.frame-item {
+  top: 876.5px;
+  left: -18px;
+  width: 1386.1px;
+  height: 808.7px;
+}
+.component-8-child {
+  position: absolute;
+  height: 79.63%;
+  width: 12.69%;
+  top: 79.63%;
+  right: 40.38%;
+  bottom: -59.25%;
+  left: 46.92%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #cec6b1 4.58%,
+    #eddeb8 21.25%,
+    #f8e7bc 34.79%,
+    #f0e0b8 51.46%,
+    #989898
+  );
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.component-8-item {
+  height: 74.94%;
+  width: 13.27%;
+  top: 25.06%;
+  right: 35.38%;
+  bottom: 0;
+  left: 51.35%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #bdb7a5,
+    #e6d8b5 17.08%,
+    #eedfb7 29.06%,
+    #f0e0b7 40%,
+    #f1e1b7 55.1%,
+    #d5caae 70.21%,
+    #989898
+  );
+}
+.component-8-inner,
+.component-8-item,
+.rectangle-div {
+  position: absolute;
+  border-radius: 50px;
+}
+.component-8-inner {
+  height: 70.73%;
+  width: 13.46%;
+  top: 21.78%;
+  right: 0;
+  bottom: 7.49%;
+  left: 86.54%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #bdb7a5,
+    #e6d8b5 17.08%,
+    #eedfb7 29.06%,
+    #fff0c9 40%,
+    #f1e1b7 55.1%,
+    #d5caae 70.21%,
+    #989898
+  );
+}
+.rectangle-div {
+  height: 76.81%;
+  width: 13.08%;
+  top: 82.9%;
+  right: 4.81%;
+  bottom: -59.72%;
+  left: 82.12%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #b1ac9b,
+    #f8e5b5 42.08%,
+    #f9edce 52.5%,
+    #f5e4b9 64.48%,
+    #e3d5b2 77.5%,
+    #989898 98.33%
+  );
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.component-8-child1,
+.component-8-child2 {
+  position: absolute;
+  border-radius: var(--br-81xl);
+}
+.component-8-child1 {
+  height: 67.21%;
+  width: 12.69%;
+  top: 21.78%;
+  right: 70.38%;
+  bottom: 11.01%;
+  left: 16.92%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #cec6b1 0.94%,
+    #eddeb8 17.6%,
+    #f7ebcc 40.52%,
+    #989898
+  );
+}
+.component-8-child2 {
+  height: 73.54%;
+  width: 12.88%;
+  top: 79.63%;
+  right: 74.23%;
+  bottom: -53.16%;
+  left: 12.88%;
+  border-radius: 50px;
+  background: linear-gradient(
+    180deg,
+    #cec6b1 4.58%,
+    #eddeb8 21.25%,
+    #f8e7bc 34.79%,
+    #f0e0b8 51.46%,
+    #989898
+  );
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.component-8 {
+  position: absolute;
+  top: 76px;
+  left: 220px;
+  width: 520px;
+  height: 427px;
+}
+.ellipse-icon,
+.frame-inner {
+  position: absolute;
+  top: 637.4px;
+  left: 38px;
+  width: 309.3px;
+  height: 309.3px;
+  offset-path: path('M203.956 55.5765C270.694 97.3387 381.084 38.1756 427.936 3.37371C590.295 -21.5715 483.434 156.245 409.709 248.271C333.997 248.271 321.028 448.324 308.059 607.034C295.09 765.745 169.956 518.745 169.956 427.653C169.956 336.561 84.0791 235.308 16.4294 185.558C-51.2203 135.808 120.533 3.37371 203.956 55.5765Z');
+  animation: move 8s linear infinite
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+.ellipse-icon {
+  top: 1002px;
+  left: 617px;
+  width: 175.2px;
+  height: 175.2px;
+  offset-path: path('M203.956 55.5765C270.694 97.3387 381.084 38.1756 427.936 3.37371C590.295 -21.5715 483.434 156.245 409.709 248.271C333.997 248.271 321.028 448.324 308.059 607.034C295.09 765.745 169.956 518.745 169.956 427.653C169.956 336.561 84.0791 235.308 16.4294 185.558C-51.2203 135.808 120.533 3.37371 203.956 55.5765Z');
+  animation: move 8s linear infinite
+  
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+
+.component-child,
+.frame-child1 {
+  position: absolute;
+  top: 733px;
+  left: 802px;
+  width: 154.6px;
+  height: 154.6px;
+  offset-path: path('M290.956 424.959C225.334 420.381 152.814 447.505 124.757 461.639C-8.49371 469.524 47.3676 359.68 7.78002 218.687C-31.8076 77.694 108.965 0.555417 197.518 1.13579C286.07 1.7162 255.891 146.721 353.873 215.75C451.856 284.779 372.983 430.682 290.956 424.959Z');
+  animation: move 8s linear infinite
+
+  
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+
+.component-child {
+  height: 72.19%;
+  width: 72.8%;
+  top: 61.44%;
+  right: 27.2%;
+  bottom: -33.63%;
+  left: 0;
+  border-radius: 28px;
+  background: linear-gradient(180deg, #6b6b6b, #e8e8e8);
+  transform: rotate(-57.7deg);
+  transform-origin: 0 0;
+  
+}
+
+
+.component-item,
+.rectangle-wrapper {
+  position: absolute;
+  top: 537px;
+  left: 695px;
+  width: 214.7px;
+  height: 215px;
+  offset-path: path('M290.956 424.959C225.334 420.381 152.814 447.505 124.757 461.639C-8.49371 469.524 47.3676 359.68 7.78002 218.687C-31.8076 77.694 108.965 0.555417 197.518 1.13579C286.07 1.7162 255.891 146.721 353.873 215.75C451.856 284.779 372.983 430.682 290.956 424.959Z');
+  animation: move 8s linear infinite
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+
+
+.component-item {
+  height: 71.49%;
+  width: 71.89%;
+  top: 41.83%;
+  right: 28.11%;
+  bottom: -13.32%;
+  left: 0;
+  border-radius: 24px;
+  background: linear-gradient(180deg, #6b6b6b, #e8e8e8);
+  transform: rotate(-35.51deg);
+  transform-origin: 0 0;
+}
+.component-inner,
+.rectangle-container {
+  position: absolute;
+  top: 1324.8px;
+  left: 639.1px;
+  width: 165.4px;
+  height: 165.2px;
+  offset-path: path('M290.956 424.959C225.334 420.381 152.814 447.505 124.757 461.639C-8.49371 469.524 47.3676 359.68 7.78002 218.687C-31.8076 77.694 108.965 0.555417 197.518 1.13579C286.07 1.7162 255.891 146.721 353.873 215.75C451.856 284.779 372.983 430.682 290.956 424.959Z');
+  animation: move 8s linear infinite
+}
+
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+
+.component-inner {
+  height: 75.9%;
+  width: 76.6%;
+  top: 100%;
+  right: -6.6%;
+  bottom: -75.9%;
+  left: 30%;
+  border-radius: 21px;
+  background: linear-gradient(180deg, #6b6b6b, #e8e8e8);
+  transform: rotate(-113.03deg);
+  transform-origin: 0 0;
+}
+.rectangle-frame {
+  position: absolute;
+  top: 284px;
+  left: 36px;
+  width: 144px;
+  height: 144.4px;
+  
+
+}
+.component-7-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #fff0ca;
+}
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 23.68%;
+  left: 3.22%;
+  text-transform: uppercase;
+}
+.div3,
+.div4 {
+  left: 77.05%;
+}
+.div4 {
+  left: 34.38%;
+}
+.component-7 {
+  position: absolute;
+  top: 1514px;
+  left: 0;
+  width: 1024px;
+  height: 76px;
+  font-size: var(--font-size-15xl);
+}
+.div5,
+.polygon-icon {
+  position: relative;
+  top: 1227px;
+  left: 286px;
+  width: 200.2px;
+  height: 200.2px;
+  offset-path: path('M147.692 91.2244C233.455 -83.9572 349.204 35.7617 396.358 117.519C440.288 143.813 347.592 602.458 591.422 649.443C835.252 696.429 664.773 1087.4 591.422 1249.04C518.071 1410.69 254.896 1249.04 172.276 1087.4C89.6561 925.751 254.896 769.277 84.4167 602.458C-86.0628 435.639 40.487 310.201 147.692 91.2244Z');
+  animation: move 9s linear infinite
+
+}
+@keyframes move {
+  100% {
+    offset-distance: 100%;
+  }
+}
+
+
+.div5 {
+  top: 379px;
+  left: 749px;
+  width: 196px;
+  height: 57px;
+}
+.component-11-icon {
+  position: absolute;
+  top: 181px;
+  left: 13px;
+  width: 902.3px;
+  height: 1252.4px;
+}
+.component-10-parent {
+  margin: 0 auto;
+  width: 960px;
+  position: relative;
+  background-color: #d2d1cf;
+  height: 1590px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-arial);
+}
+
+
+
+
+

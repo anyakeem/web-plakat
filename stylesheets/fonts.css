@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Montserrat-Regular" ;
+    src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.div{
+    font-family: 'Montserrat-Regular' ;
+    font-size: 50px;
+}
+
+.div1{
+    font-family: 'Montserrat-Regular';
+    font-size: 50px;
+}
+
+.div2{
+    font-family: 'Montserrat-Regular';
+    font-size: 34px;
+}
+
+.div3{
+    font-family: 'Montserrat-Regular';
+    font-size: 34px;
+}
+
+.div4{
+    font-family: 'Montserrat-Regular';
+    font-size: 34px;
+}
+
+
+
